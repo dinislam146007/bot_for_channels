@@ -6,4 +6,4 @@
 
 <img src=photo_2023-12-24_17-50-32.jpg width="250"/>
 
-<img src=photo_2023-12-24_17-50-32_(2).jpg width="250"/>
+<img src=photo_2023-12-24_17-50-32(1).jpg width="250"/>
